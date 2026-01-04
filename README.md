@@ -101,7 +101,36 @@ FROM sales;
 
 **Insight:** Demonstrates long-term revenue growth and business scaling.
 
-## Aurthor 
-Anam Althaf
+## Tools & Technologies
+- SQL (BigQuery / Standard SQL)
+- Google BigQuery (Query execution)
+- GitHub (Version control and documentation)
 
+---
+
+## Key Insights (Example)
+- Revenue demonstrates a steady upward trend over time.
+- A small number of products contribute a significant portion of total revenue.
+- Running total analysis highlights consistent business growth.
+- AOV helps evaluate customer purchasing behavior.
+
+---
+
+## How This Analysis Supports Business Decisions
+- Enables performance tracking through KPIs
+- Supports sales forecasting and trend analysis
+- Provides a foundation for dashboard reporting in Power BI or Excel
+
+---
+
+## Future Improvements
+- Customer segmentation (new vs repeat customers)
+- Profitability analysis
+- Regional performance comparison
+- Integration with visualization tools
+
+---
+
+## Author
+Anam Althaf
 Aspiring Junior Data Analyst
