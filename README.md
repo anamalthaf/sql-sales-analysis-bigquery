@@ -62,4 +62,6 @@ This project demonstrates:
 
 **Insight:** Demonstrates long-term revenue growth and business scaling.
 
-## 📂 Project Structure
+## Aurthor 
+Anam Althaf
+Aspiring Junior Data Analyst
